@@ -1,0 +1,31 @@
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgba(28, 112, 112, 0.265);
+}
+h1{
+    alignment-baseline: middle;
+    color: darkorchid;
+}
+form{
+    width: 500px;
+    margin:auto;
+    padding: 20px;
+    background-color: rgba(226, 43, 183, 0.33);
+    border: black;
+}
+label{
+    font-weight: bold;
+}
+
+input[type="submit"]
+{
+    background-color: beige;
+    padding: 10px 50px;
+    border: blanchedalmond;
+    cursor:pointer;
+}
+a{
+    text-decoration: wavy;
+    color: darkblue;
+}
+
